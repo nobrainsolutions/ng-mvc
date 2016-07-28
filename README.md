@@ -1,1 +1,1 @@
-# ng-mvc
+# ng2-mvc
